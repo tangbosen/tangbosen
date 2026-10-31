@@ -1,4 +1,4 @@
-## Hi there 👋
+## 我是汤博森，我正在学习开源软件开发实践课程。本课程目标：理解开源项目如何运转，完成一次规范贡献，养成记录问题、阅读文档等习惯。
 
 <!--
 **tangbosen/tangbosen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
